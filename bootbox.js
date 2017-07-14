@@ -988,7 +988,12 @@
       OK      : "OK",
       CANCEL  : "取消",
       CONFIRM : "確認"
-    }
+    },
+    tn : {
+      OK      : "சரி",
+      CANCEL  : "ரத்து",
+      CONFIRM : "உறுதி செய்"
+    },
   };
 
   exports.addLocale = function(name, values) {
